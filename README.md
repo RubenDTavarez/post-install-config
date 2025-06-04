@@ -37,8 +37,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once we get our "congratulation" there are going to be multiple URSLs for the osTicket software. One of these URLs is for the administrator. This portal will serve 
-administrate any settings on the osTicket platform. exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once we get our "congratulation" there are going to be multiple URSLs for the osTicket software. One of these URLs is for the administrator/Agent. There is a difference between the admin and agent panel.  This portal will serve administrate any settings on the osTicket platform. 
 </p>
 <br />
 
