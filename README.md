@@ -34,10 +34,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BQMhFuG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once we get our "congratulation" there are going to be multiple URSLs for the osTicket software. One of these URLs is for the administrator/Agent. There is a difference between the admin and agent panel.  This portal will serve administrate any settings on the osTicket platform. 
+    Once we get our "congratulation" page  after the installation there will be  multiple URSLs for the osTicket. Here we find the URL links  for the administrators/Agents to log in and perform their task and other link for the end users to summit their monitor their tickets. There are differences between the admins and agents panels as usual. Admins can create agents, set permissions etc. 
 </p>
 <br />
 
