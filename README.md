@@ -53,7 +53,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/ubu9Bp2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Departments: Admin Panel > Agents > Departments. Here we see some  is where we create the departments to handle specific tasks
+    Departments: To access departments panel,  click on the Admin Panel, then click on Agents and  Departments. You can have departments, Parent Departments and Child Departments. These can be the Support, Accounting or Admins department. We have a child department when it is under another a department. The agents of the Parent Department will see the tickets of the child department. This will not be the same for the agents from the child department. 
+
 </p>
 <br />
 
@@ -62,8 +63,51 @@ Departments: Admin Panel > Agents > Departments. Here we see some  is where we c
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Teams: =i 
+    Teams:  Teams are a great way to put together agents from different departments to handle a specific topic or issue. We can also implement a new set of rules and permissions for a specific team and grant access to agents who otherwise would not be able to access it. To create an a Team in your admin panel, locate the agents tab, and click on Teams. Then click add new team, and fill out the information requested.    
+</p>
+<br />
 
-    
+
+<p>
+<img src="https://i.imgur.com/2LI3TjT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+    Tickets.    
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/2LI3TjT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+    Tickets.    
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/2LI3TjT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+    Tickets.    
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/2LI3TjT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+    Tickets.    
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/2LI3TjT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+    Tickets.    
 </p>
 <br />
