@@ -60,7 +60,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fiCV4JV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
     Teams:  Teams are a great way to put together agents from different departments to handle a specific topic or issue. We can also implement a new set of rules and permissions for a specific team and grant access to agents who otherwise would not be able to access it. To create an a Team in your admin panel, locate the agents tab, and click on Teams. Then click add new team, and fill out the information requested.    
@@ -69,10 +69,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p>
-<img src="https://i.imgur.com/2LI3TjT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gArSaBG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-    Tickets.    
+    Tickets request by endusers: We will allow  all users  —  even those not registered —  to create tickets. From our admin panel, click on settings and click users next. We need to make the “registration required” box is unchecked.    
 </p>
 <br />
 
