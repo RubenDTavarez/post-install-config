@@ -78,10 +78,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p>
-<img src="https://i.imgur.com/2LI3TjT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/X4nOanJ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-    Tickets.    
+   Configuring Agents: Agents will take care of     
 </p>
 <br />
 
